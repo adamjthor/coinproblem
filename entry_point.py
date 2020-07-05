@@ -1,0 +1,1 @@
+# Empty file named 'entry_point.py' needed for the model to be successfully deployed
